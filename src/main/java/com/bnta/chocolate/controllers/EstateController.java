@@ -1,2 +1,4 @@
-package com.bnta.chocolate.controllers;public class EstateController {
+package com.bnta.chocolate.controllers;
+
+public class EstateController {
 }
